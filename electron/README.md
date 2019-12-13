@@ -9,3 +9,5 @@
 - [How to handle CORS in an electron app](https://stackoverflow.com/questions/51254618/how-to-handle-cors-in-an-electron-app)
 
 - [How to make your Electron app faster](https://dev.to/xxczaki/how-to-make-your-electron-app-faster-4ifb)
+
+- [In Electron , what is the best way to make ajax requests?](https://stackoverflow.com/questions/40848491/in-electron-what-is-the-best-way-to-make-ajax-requests)
