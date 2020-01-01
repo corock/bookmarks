@@ -14,4 +14,6 @@
 
 - [In Electron , what is the best way to make ajax requests?](https://stackoverflow.com/questions/40848491/in-electron-what-is-the-best-way-to-make-ajax-requests)
 
+- [mainWindow.loadURL(“https://localhost:3000/”) show white screen on Electron app](https://stackoverflow.com/questions/49637026/mainwindow-loadurlhttps-localhost3000-show-white-screen-on-electron-app/49673272)
+
 - [Requiring electron outside of main.js causes a TypeError](https://github.com/electron/electron/issues/7300)
