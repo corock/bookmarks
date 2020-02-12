@@ -93,3 +93,15 @@ cf. cloudfront-default.json
   }
 }
 ```
+
+
+
+## Effective
+
+### Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist.
+
+- [Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist](https://forums.aws.amazon.com/message.jspa?messageID=694708)
+
+- [Solving ‘One or more of your origins do not exist’ for Cloud Front](https://maxrohde.com/2016/11/15/solving-one-or-more-of-your-origins-do-not-exist-for-cloud-front/)
+
+- [Using CloudFormation to configure CloudFront with an S3 origin](https://stackoverflow.com/questions/35851374/using-cloudformation-to-configure-cloudfront-with-an-s3-origin)
