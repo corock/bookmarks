@@ -102,6 +102,10 @@ cf. cloudfront-default.json
 
 - [Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist](https://forums.aws.amazon.com/message.jspa?messageID=694708)
 
+- [Error: ENOENT: no such file or directory, open '../config.json'](https://stackoverflow.com/questions/51921605/error-enoent-no-such-file-or-directory-open-config-json)
+
+- [Node.js and aws credentials error](https://stackoverflow.com/questions/37507464/node-js-and-aws-credentials-error)
+
 - [Solving ‘One or more of your origins do not exist’ for Cloud Front](https://maxrohde.com/2016/11/15/solving-one-or-more-of-your-origins-do-not-exist-for-cloud-front/)
 
 - [Using CloudFormation to configure CloudFront with an S3 origin](https://stackoverflow.com/questions/35851374/using-cloudformation-to-configure-cloudfront-with-an-s3-origin)
