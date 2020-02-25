@@ -13,6 +13,7 @@
 - [Configuring region in Node.js AWS SDK](https://stackoverflow.com/questions/31039948/configuring-region-in-node-js-aws-sdk)
 - [How do you use “NextToken” in AWS API calls](https://stackoverflow.com/questions/52068066/how-do-you-use-nexttoken-in-aws-api-calls)
 - [How to use AWS Media Services for media projects](https://www.cleveroad.com/blog/aws-media-services)
+- [OBS Studio Streaming](https://forums.aws.amazon.com/thread.jspa?threadID=268535)
 - [デフォルトのCloudFront設定](https://qiita.com/motchi0214/items/bf7a2d3f334b7b1b0a53)
 
 cf. cloudfront-default.json
