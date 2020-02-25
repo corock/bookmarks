@@ -1,9 +1,18 @@
-# AWS
+# [AWS](https://aws.amazon.com/ko/)
+
+## [AWS Media Services](https://aws.amazon.com/ko/media-services/?nc1=h_ls)
+
+### [MediaStore](https://aws.amazon.com/ko/mediastore/)
+
+### [MediaLive](https://aws.amazon.com/ko/medialive/)
+
+
+
+## References
 
 - [Configuring region in Node.js AWS SDK](https://stackoverflow.com/questions/31039948/configuring-region-in-node-js-aws-sdk)
-
 - [How do you use “NextToken” in AWS API calls](https://stackoverflow.com/questions/52068066/how-do-you-use-nexttoken-in-aws-api-calls)
-
+- [How to use AWS Media Services for media projects](https://www.cleveroad.com/blog/aws-media-services)
 - [デフォルトのCloudFront設定](https://qiita.com/motchi0214/items/bf7a2d3f334b7b1b0a53)
 
 cf. cloudfront-default.json
@@ -96,16 +105,12 @@ cf. cloudfront-default.json
 
 
 
-## Effective
+### Effective
 
 ### Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist.
 
 - [Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist](https://forums.aws.amazon.com/message.jspa?messageID=694708)
-
 - [Error: ENOENT: no such file or directory, open '../config.json'](https://stackoverflow.com/questions/51921605/error-enoent-no-such-file-or-directory-open-config-json)
-
 - [Node.js and aws credentials error](https://stackoverflow.com/questions/37507464/node-js-and-aws-credentials-error)
-
 - [Solving ‘One or more of your origins do not exist’ for Cloud Front](https://maxrohde.com/2016/11/15/solving-one-or-more-of-your-origins-do-not-exist-for-cloud-front/)
-
 - [Using CloudFormation to configure CloudFront with an S3 origin](https://stackoverflow.com/questions/35851374/using-cloudformation-to-configure-cloudfront-with-an-s3-origin)
