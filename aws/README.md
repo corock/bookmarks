@@ -4,7 +4,13 @@
 
 ### [MediaStore](https://aws.amazon.com/ko/mediastore/)
 
+- [Monitor Performance with AWS Elemental MediaStore HTTP Access Logs](https://aws.amazon.com/ko/blogs/media/monitor-performance-with-mediastore-http-access-logs/)
+
+
+
 ### [MediaLive](https://aws.amazon.com/ko/medialive/)
+
+- [[Reinvent2017] 주요 서비스 업데이트 - 미디어 분야(AWS Elemental MediaLive)](https://wisen.co.kr/pages/blog/blog-detail.html?idx=2325)
 
 
 
