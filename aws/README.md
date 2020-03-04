@@ -1,5 +1,15 @@
 # [AWS](https://aws.amazon.com/ko/)
 
+- [Amazon 리소스 이름(ARN)](https://docs.aws.amazon.com/ko_kr/general/latest/gr/aws-arns-and-namespaces.html)
+
+
+
+## Amazon Web Services 한국 블로그
+
+- [Category: AWS Elemental MediaLive](https://aws.amazon.com/ko/blogs/korea/category/media-services/aws-elemental-medialive/)
+
+
+
 ## [AWS Media Services](https://aws.amazon.com/ko/media-services/?nc1=h_ls)
 
 ### [MediaStore](https://aws.amazon.com/ko/mediastore/)
