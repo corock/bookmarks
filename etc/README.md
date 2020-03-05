@@ -11,3 +11,9 @@
 
 
 - [Low Latency HLS - LHLS](https://www.theoplayer.com/blog/low-latency-hls-lhls)
+
+
+
+## Live Streaming
+
+- [유튜브 실시간 라이브 스트리밍, 비트레이트 관련 정리](https://emptydream.tistory.com/4730)
