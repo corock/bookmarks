@@ -1,26 +1,56 @@
 # [AWS](https://aws.amazon.com/ko/)
 
 - [Amazon 리소스 이름(ARN)](https://docs.aws.amazon.com/ko_kr/general/latest/gr/aws-arns-and-namespaces.html)
+- [AWS 서비스 엔드포인트](https://docs.aws.amazon.com/ko_kr/general/latest/gr/rande.html)
+- [AWS에서 보안 감사 및 이상징후 탐지](https://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 
 
 
 ## Amazon Web Services 한국 블로그
 
+- [Amazon CloudFront를 활용한 동적 콘텐츠 전송 성능 개선하기](https://aws.amazon.com/ko/blogs/korea/how-to-improve-dynamic-contents-delievery-using-amazon-cloudfront/)
 - [Category: AWS Elemental MediaLive](https://aws.amazon.com/ko/blogs/korea/category/media-services/aws-elemental-medialive/)
+- [클라우드 기반 미디어 생방송 품질 최적화 및 개선 방법 – 1) 지연 시간의 정의와 측정](https://aws.amazon.com/ko/blogs/korea/part-1-how-to-compete-with-broadcast-latency-using-current-adaptive-bitrate-technologies/?nc1=b_rp)
+
+
+
+## [AWS Media Blog](https://aws.amazon.com/ko/blogs/media/)
+
+- [Part 1: How to Compete with Broadcast Latency Using Current Adaptive Bitrate Technologies](https://aws.amazon.com/ko/blogs/media/how-to-compete-with-broadcast-latency-using-current-adaptive-bitrate-technologies-part-1/)
+
+
+
+### [S3]()
+
+- [AWS S3 vs Elemental MediaStore](https://stackoverflow.com/questions/53005213/aws-s3-vs-elemental-mediastore)
+
+
+### [CloudWatch]()
+
+- [채널 로그 활성화](https://docs.aws.amazon.com/ko_kr/medialive/latest/ug/enabling-disabling-logs.html)
+- [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
+- [10. AWS 서비스를 모니터링하는 CloudWatch](https://interconnection.tistory.com/48)
 
 
 
 ## [AWS Media Services](https://aws.amazon.com/ko/media-services/?nc1=h_ls)
 
-### [MediaStore](https://aws.amazon.com/ko/mediastore/)
-
-- [Monitor Performance with AWS Elemental MediaStore HTTP Access Logs](https://aws.amazon.com/ko/blogs/media/monitor-performance-with-mediastore-http-access-logs/)
+- [워크플로우 기반의 AWS 미디어서비스 활용하기::이상오::AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/workflow-foundation-aws-media-services-introduction-leesangho-95052558)
 
 
 
 ### [MediaLive](https://aws.amazon.com/ko/medialive/)
 
 - [[Reinvent2017] 주요 서비스 업데이트 - 미디어 분야(AWS Elemental MediaLive)](https://wisen.co.kr/pages/blog/blog-detail.html?idx=2325)
+- [AWS MediaLive MediaPackage - How to store realtime streaming videos to S3?](https://stackoverflow.com/questions/52900656/aws-medialive-mediapackage-how-to-store-realtime-streaming-videos-to-s3)
+- [MediaLive 두개의 출력을 MediaStore에서 완벽한 이중화 하기 (Redundant Manifest)](https://m.blog.naver.com/PostView.nhn?blogId=tomnet&logNo=221414251940&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
+
+
+### [MediaStore](https://aws.amazon.com/ko/mediastore/)
+
+- [AWS MediaStore](https://blog.leedoing.com/154)
+- [Monitor Performance with AWS Elemental MediaStore HTTP Access Logs](https://aws.amazon.com/ko/blogs/media/monitor-performance-with-mediastore-http-access-logs/)
 
 
 
