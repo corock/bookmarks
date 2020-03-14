@@ -35,12 +35,19 @@
 
 
 
+## IAM
+
+- [IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2019](https://www.slideshare.net/awskorea/iam-aws-aws-aws-summit-seoul-2019)
+
+
+
 ### [S3]()
 
 - [[AWS 파헤치기] #4 S3 권한설정 ACL & Bucket Policy](https://real-dongsoo7.tistory.com/101)
 - [Amazon Simple Storage Service 엔드포인트 및 할당량](https://docs.aws.amazon.com/ko_kr/general/latest/gr/s3.html)
 - [AWS S3 vs Elemental MediaStore](https://stackoverflow.com/questions/53005213/aws-s3-vs-elemental-mediastore)
 - [Create an S3 Bucket for File Uploads](https://serverless-stack.com/chapters/ko/create-an-s3-bucket-for-file-uploads.html)
+- [S3 bucket policy has invalid action](https://stackoverflow.com/questions/46212531/s3-bucket-policy-has-invalid-action)
 
 
 ## [AWS Media Services](https://aws.amazon.com/ko/media-services/?nc1=h_ls)
@@ -164,6 +171,10 @@ cf. cloudfront-default.json
 
 
 ### Effective
+
+- [[AWS] S3 객체 업로드 및 액세스 설정](https://zamezzz.tistory.com/299)
+
+
 
 ### Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist.
 
