@@ -1,6 +1,8 @@
 # Prisma
 
 - [Prisma로 GraphQL을 쉽게 도입하기](https://medium.com/labelstore/prisma%EB%A1%9C-graphql%EC%9D%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-fa64dcf63382)
+- [Prisma 관련 정보정리](https://velog.io/@gtah2yk/Prisma-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4%EC%A0%95%EB%A6%AC-hlk50xk8h8)
+- [Authentication in Prisma - Part 1: Setup](https://alligator.io/graphql/authentication-setup/)
 
 
 
