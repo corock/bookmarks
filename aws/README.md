@@ -17,6 +17,7 @@
 
 ## [AWS Media Blog](https://aws.amazon.com/ko/blogs/media/)
 
+- [How to Send Live Video to AWS Elemental MediaStore](https://aws.amazon.com/ko/blogs/media/part1-how-to-send-live-video-to-aws-elemental-mediastore/)
 - [Part 1: How to Compete with Broadcast Latency Using Current Adaptive Bitrate Technologies](https://aws.amazon.com/ko/blogs/media/how-to-compete-with-broadcast-latency-using-current-adaptive-bitrate-technologies-part-1/)
 
 
@@ -24,6 +25,9 @@
 ### [CloudWatch]()
 
 - [채널 로그 활성화](https://docs.aws.amazon.com/ko_kr/medialive/latest/ug/enabling-disabling-logs.html)
+- [[AWS] CloudFront S3 Restrict Bucket Access 수정하기](https://velog.io/@minholee_93/AWS-CloudFront-S3-Restrict-Bucket-Access-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-9zk3quz386)
+- [[실습 예제] AWS Elemental MediaStore 액세스 로그로 Live Streaming CloudWatch 대시 보드 생성하기](https://www.megazone.com/techblog_20200212_create-a-live-streaming-cloudwatch-dashboard-using-aws-elemental-mediastore-access-logs/)
+- [CloudWatch에 대하여](http://labs.brandi.co.kr/2019/05/30/kwakjs.html)
 - [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 - [10. AWS 서비스를 모니터링하는 CloudWatch](https://interconnection.tistory.com/48)
 
@@ -37,6 +41,7 @@
 
 ## IAM
 
+- [[초보자를 위한 AWS 웹구축] 2. IAM 유저 및 MFA 생성하기](https://tech.cloud.nongshim.co.kr/2018/10/11/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-%EC%9B%B9%EA%B5%AC%EC%B6%95-2-iam-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/)
 - [IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2019](https://www.slideshare.net/awskorea/iam-aws-aws-aws-summit-seoul-2019)
 
 
@@ -53,6 +58,8 @@
 ## [AWS Media Services](https://aws.amazon.com/ko/media-services/?nc1=h_ls)
 
 - [워크플로우 기반의 AWS 미디어서비스 활용하기::이상오::AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/workflow-foundation-aws-media-services-introduction-leesangho-95052558)
+- [CREATE LIVE VIDEO STREAMING CHANNEL ON AWS](https://vimalpaliwal.com/blog/2020/02/f972c93f61/how-to-create-live-video-streaming-channel-on-aws.html)
+- [Elemental Media Service](https://www.bespinglobal.com/elemental-media-service/)
 
 
 
@@ -67,6 +74,7 @@
 
 ### [MediaStore](https://aws.amazon.com/ko/mediastore/)
 
+- [AWS MediaStore 사용하기](https://blog.naver.com/PostView.nhn?blogId=tomnet&logNo=221394857591&categoryNo=8&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=2)
 - [AWS MediaStore](https://blog.leedoing.com/154)
 - [Monitor Performance with AWS Elemental MediaStore HTTP Access Logs](https://aws.amazon.com/ko/blogs/media/monitor-performance-with-mediastore-http-access-logs/)
 
@@ -180,6 +188,7 @@ cf. cloudfront-default.json
 
 - [Aws::CloudFront::Errors::NoSuchOrigin: One or more of your origins do not exist](https://forums.aws.amazon.com/message.jspa?messageID=694708)
 - [Error: ENOENT: no such file or directory, open '../config.json'](https://stackoverflow.com/questions/51921605/error-enoent-no-such-file-or-directory-open-config-json)
+- [Error creating CloudFront Distribution: NoSuchOrigin:](https://stackoverflow.com/questions/55972204/error-creating-cloudfront-distribution-nosuchorigin)
 - [Node.js and aws credentials error](https://stackoverflow.com/questions/37507464/node-js-and-aws-credentials-error)
 - [Solving ‘One or more of your origins do not exist’ for Cloud Front](https://maxrohde.com/2016/11/15/solving-one-or-more-of-your-origins-do-not-exist-for-cloud-front/)
 - [Using CloudFormation to configure CloudFront with an S3 origin](https://stackoverflow.com/questions/35851374/using-cloudformation-to-configure-cloudfront-with-an-s3-origin)
