@@ -6,6 +6,12 @@
 
 
 
+## Redux
+
+- [Redux GitBook](https://deminoth.github.io/redux/#)
+
+
+
 ## hls.js
 
 - [hls.js 를 이용한 liveStreaming 서비스를 사용할 때 사용할 만한 config!](https://ddunnimlabs.tistory.com/97)
