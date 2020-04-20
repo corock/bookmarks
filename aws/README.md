@@ -6,17 +6,29 @@
 
 
 
+## CloudFront
+
+- [[AWS]29.CloudFront(CDN)서비스 사용법](https://brunch.co.kr/@topasvga/33)
+- [Credential cookies not send to cloudfront](https://github.com/videojs/video.js/issues/5247)
+
+
+
 ## Amazon Web Services 한국 블로그
 
 - [Amazon CloudFront를 활용한 동적 콘텐츠 전송 성능 개선하기](https://aws.amazon.com/ko/blogs/korea/how-to-improve-dynamic-contents-delievery-using-amazon-cloudfront/)
 - [Amazon CloudFront와 AWS Media Services를 활용한 콘텐츠 전송 방법](https://aws.amazon.com/ko/blogs/korea/using-amazon-cloudfront-and-aws-media-services/)
+- [AWS S3와 CloudFront를 사용하여 동영상 스트리밍 서비스 하기](https://blog.embian.com/123)
 - [Category: AWS Elemental MediaLive](https://aws.amazon.com/ko/blogs/korea/category/media-services/aws-elemental-medialive/)
+- [CloudFront를 이용해 HTTPS로 정적 리소스 배포하기](https://musma.github.io/2019/06/29/publish-static-assets-over-https-using-cloudfront.html)
+- [배포 생성 및 배포 업데이트에 필요한 필드](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/distribution-overview-required-fields.html)
+- [실전 Amazon S3와 CloudFront로 정적 파일 배포하기](https://aws.amazon.com/ko/blogs/korea/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/)
 - [클라우드 기반 미디어 생방송 품질 최적화 및 개선 방법 – 1) 지연 시간의 정의와 측정](https://aws.amazon.com/ko/blogs/korea/part-1-how-to-compete-with-broadcast-latency-using-current-adaptive-bitrate-technologies/?nc1=b_rp)
 
 
 
 ## [AWS Media Blog](https://aws.amazon.com/ko/blogs/media/)
 
+- [FAQs About Live Streaming on AWS: How Much Does Live Streaming Cost on AWS?](https://aws.amazon.com/ko/blogs/media/frequently-asked-questions-about-the-cost-of-live-streaming/)
 - [How to Send Live Video to AWS Elemental MediaStore](https://aws.amazon.com/ko/blogs/media/part1-how-to-send-live-video-to-aws-elemental-mediastore/)
 - [Part 1: How to Compete with Broadcast Latency Using Current Adaptive Bitrate Technologies](https://aws.amazon.com/ko/blogs/media/how-to-compete-with-broadcast-latency-using-current-adaptive-bitrate-technologies-part-1/)
 
@@ -27,6 +39,7 @@
 - [채널 로그 활성화](https://docs.aws.amazon.com/ko_kr/medialive/latest/ug/enabling-disabling-logs.html)
 - [[AWS] CloudFront S3 Restrict Bucket Access 수정하기](https://velog.io/@minholee_93/AWS-CloudFront-S3-Restrict-Bucket-Access-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-9zk3quz386)
 - [[실습 예제] AWS Elemental MediaStore 액세스 로그로 Live Streaming CloudWatch 대시 보드 생성하기](https://www.megazone.com/techblog_20200212_create-a-live-streaming-cloudwatch-dashboard-using-aws-elemental-mediastore-access-logs/)
+- [[AWS] CloudWatch로 리소스 모니터링하기](https://victorydntmd.tistory.com/67?category=682759)
 - [CloudWatch에 대하여](http://labs.brandi.co.kr/2019/05/30/kwakjs.html)
 - [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 - [10. AWS 서비스를 모니터링하는 CloudWatch](https://interconnection.tistory.com/48)
@@ -50,6 +63,7 @@
 
 - [[AWS 파헤치기] #4 S3 권한설정 ACL & Bucket Policy](https://real-dongsoo7.tistory.com/101)
 - [Amazon Simple Storage Service 엔드포인트 및 할당량](https://docs.aws.amazon.com/ko_kr/general/latest/gr/s3.html)
+- [AWS S3 설정](https://firstboos.tistory.com/entry/AWS-S3-%EC%84%A4%EC%A0%95)
 - [AWS S3 vs Elemental MediaStore](https://stackoverflow.com/questions/53005213/aws-s3-vs-elemental-mediastore)
 - [Create an S3 Bucket for File Uploads](https://serverless-stack.com/chapters/ko/create-an-s3-bucket-for-file-uploads.html)
 - [S3 bucket policy has invalid action](https://stackoverflow.com/questions/46212531/s3-bucket-policy-has-invalid-action)
@@ -68,6 +82,7 @@
 - [[Reinvent2017] 주요 서비스 업데이트 - 미디어 분야(AWS Elemental MediaLive)](https://wisen.co.kr/pages/blog/blog-detail.html?idx=2325)
 - [AWS Elemental MediaLive](https://blog.leedoing.com/110)
 - [AWS MediaLive MediaPackage - How to store realtime streaming videos to S3?](https://stackoverflow.com/questions/52900656/aws-medialive-mediapackage-how-to-store-realtime-streaming-videos-to-s3)
+- [How to connect MediaLive with MediaStore](https://forums.aws.amazon.com/thread.jspa?threadID=269776)
 - [MediaLive 두개의 출력을 MediaStore에서 완벽한 이중화 하기 (Redundant Manifest)](https://m.blog.naver.com/PostView.nhn?blogId=tomnet&logNo=221414251940&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 
@@ -192,3 +207,9 @@ cf. cloudfront-default.json
 - [Node.js and aws credentials error](https://stackoverflow.com/questions/37507464/node-js-and-aws-credentials-error)
 - [Solving ‘One or more of your origins do not exist’ for Cloud Front](https://maxrohde.com/2016/11/15/solving-one-or-more-of-your-origins-do-not-exist-for-cloud-front/)
 - [Using CloudFormation to configure CloudFront with an S3 origin](https://stackoverflow.com/questions/35851374/using-cloudformation-to-configure-cloudfront-with-an-s3-origin)
+
+
+
+## AWS Developer Forums
+
+- [AWS Elemental MediaLive - 입력 보안 그룹(InputSecurityGroup) 삭제 관련 문의](https://forums.aws.amazon.com/thread.jspa?messageID=933273&#933273)
