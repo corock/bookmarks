@@ -1,6 +1,7 @@
 # git
 
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [MAC) git 문제 Permission denied (publickey).](https://zeddios.tistory.com/120)
 
 
 
